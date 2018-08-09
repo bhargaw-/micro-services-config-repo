@@ -1,0 +1,4 @@
+limits-service:
+    minVal: 10
+limits-service:
+    maxVal: 100
